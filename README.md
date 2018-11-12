@@ -31,7 +31,7 @@ clone or download the project
 
 this app uses
 
-    pod 'Flickr', '~> 1.1'
+    pod 'FlickrKit'
 
 so, you have to install that pod in order to build the app
 
